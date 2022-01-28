@@ -8,3 +8,5 @@ This repo was made for training purposes, to learn features like:
 # to do list:
 * add some functionality to this program
 * add more readme content
+#credits
+* me
