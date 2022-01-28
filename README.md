@@ -10,4 +10,5 @@ This repo was made for training purposes, to learn features like:
 * add more readme content
 #credits
 * me
+* domziq
 * maybe some others
