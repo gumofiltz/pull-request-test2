@@ -11,3 +11,4 @@ This repo was made for training purposes, to learn features like:
 #credits
 * me
 * domziq
+* maybe some others
